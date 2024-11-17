@@ -1,0 +1,80 @@
+2024-11-17 18:54:45,889 - sqlite_data_manager - INFO - Saving DataFrame to SQLite database at c:\code\prediction\database\klines.db.
+2024-11-17 18:54:45,889 - sqlite_data_manager - DEBUG - Connected to SQLite database.
+2024-11-17 18:54:45,889 - sqlite_data_manager - DEBUG - Ensured 'klines' table exists.
+2024-11-17 18:54:45,889 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_open_time ON klines (open_time);
+2024-11-17 18:54:45,900 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_close_time ON klines (close_time);
+2024-11-17 18:54:45,904 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_correlation_computed ON klines (correlation_computed);
+2024-11-17 18:54:45,912 - sqlite_data_manager - DEBUG - Converted 'open_time' and 'close_time' to string format without timezone.
+2024-11-17 18:54:45,931 - sqlite_data_manager - INFO - Data successfully inserted into SQLite database.
+2024-11-17 18:54:45,932 - sqlite_data_manager - DEBUG - Committed transaction to SQLite database.
+2024-11-17 18:54:45,933 - sqlite_data_manager - DEBUG - Closed SQLite database connection.
+2024-11-17 19:19:44,901 - sqlite_data_manager - INFO - Saving DataFrame to SQLite database at c:\code\prediction\database\klines.db.
+2024-11-17 19:19:44,903 - sqlite_data_manager - DEBUG - Connected to SQLite database.
+2024-11-17 19:19:44,904 - sqlite_data_manager - DEBUG - Ensured 'klines' table exists.
+2024-11-17 19:19:44,910 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_open_time ON klines (open_time);
+2024-11-17 19:19:44,916 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_close_time ON klines (close_time);
+2024-11-17 19:19:44,924 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_correlation_computed ON klines (correlation_computed);
+2024-11-17 19:19:44,947 - sqlite_data_manager - DEBUG - Converted 'open_time' and 'close_time' to string format without timezone.
+2024-11-17 19:19:44,985 - sqlite_data_manager - INFO - Data successfully inserted into SQLite database.
+2024-11-17 19:19:44,985 - sqlite_data_manager - DEBUG - Committed transaction to SQLite database.
+2024-11-17 19:19:44,985 - sqlite_data_manager - DEBUG - Closed SQLite database connection.
+2024-11-17 19:29:11,418 - sqlite_data_manager - INFO - Saving DataFrame to SQLite database at c:\code\prediction\database\klines.db.
+2024-11-17 19:29:11,420 - sqlite_data_manager - DEBUG - Connected to SQLite database.
+2024-11-17 19:29:11,421 - sqlite_data_manager - DEBUG - Ensured 'klines' table exists.
+2024-11-17 19:29:11,425 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_open_time ON klines (open_time);
+2024-11-17 19:29:11,429 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_close_time ON klines (close_time);
+2024-11-17 19:29:11,432 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_correlation_computed ON klines (correlation_computed);
+2024-11-17 19:29:11,440 - sqlite_data_manager - DEBUG - Converted 'open_time' and 'close_time' to string format without timezone.
+2024-11-17 19:29:11,458 - sqlite_data_manager - INFO - Data successfully inserted into SQLite database.
+2024-11-17 19:29:11,459 - sqlite_data_manager - DEBUG - Committed transaction to SQLite database.
+2024-11-17 19:29:11,460 - sqlite_data_manager - DEBUG - Closed SQLite database connection.
+2024-11-17 19:58:04,812 - sqlite_data_manager - INFO - Saving DataFrame to SQLite database at c:\code\prediction\database\klines.db.
+2024-11-17 19:58:04,813 - sqlite_data_manager - DEBUG - Connected to SQLite database.
+2024-11-17 19:58:04,814 - sqlite_data_manager - DEBUG - Ensured 'klines' table exists.
+2024-11-17 19:58:04,817 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_open_time ON klines (open_time);
+2024-11-17 19:58:04,819 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_close_time ON klines (close_time);
+2024-11-17 19:58:04,823 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_correlation_computed ON klines (correlation_computed);
+2024-11-17 19:58:04,830 - sqlite_data_manager - DEBUG - Converted 'open_time' and 'close_time' to string format without timezone.
+2024-11-17 19:58:04,847 - sqlite_data_manager - INFO - Data successfully inserted into SQLite database.
+2024-11-17 19:58:04,847 - sqlite_data_manager - DEBUG - Committed transaction to SQLite database.
+2024-11-17 19:58:04,848 - sqlite_data_manager - DEBUG - Closed SQLite database connection.
+2024-11-17 20:02:21,698 - sqlite_data_manager - INFO - Saving DataFrame to SQLite database at c:\code\prediction\database\klines.db.
+2024-11-17 20:02:21,700 - sqlite_data_manager - DEBUG - Connected to SQLite database.
+2024-11-17 20:02:21,700 - sqlite_data_manager - DEBUG - Ensured 'klines' table exists.
+2024-11-17 20:02:21,702 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_open_time ON klines (open_time);
+2024-11-17 20:02:21,706 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_close_time ON klines (close_time);
+2024-11-17 20:02:21,709 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_correlation_computed ON klines (correlation_computed);
+2024-11-17 20:02:21,714 - sqlite_data_manager - DEBUG - Converted 'open_time' and 'close_time' to string format without timezone.
+2024-11-17 20:02:21,728 - sqlite_data_manager - INFO - Data successfully inserted into SQLite database.
+2024-11-17 20:02:21,728 - sqlite_data_manager - DEBUG - Committed transaction to SQLite database.
+2024-11-17 20:02:21,728 - sqlite_data_manager - DEBUG - Closed SQLite database connection.
+2024-11-17 20:09:33,906 - sqlite_data_manager - INFO - Saving DataFrame to SQLite database at c:\code\prediction\database\klines.db.
+2024-11-17 20:09:33,907 - sqlite_data_manager - DEBUG - Connected to SQLite database.
+2024-11-17 20:09:33,908 - sqlite_data_manager - DEBUG - Ensured 'klines' table exists.
+2024-11-17 20:09:33,912 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_open_time ON klines (open_time);
+2024-11-17 20:09:33,916 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_close_time ON klines (close_time);
+2024-11-17 20:09:33,917 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_correlation_computed ON klines (correlation_computed);
+2024-11-17 20:09:33,929 - sqlite_data_manager - DEBUG - Converted 'open_time' and 'close_time' to string format without timezone.
+2024-11-17 20:09:33,945 - sqlite_data_manager - INFO - Data successfully inserted into SQLite database.
+2024-11-17 20:09:33,945 - sqlite_data_manager - DEBUG - Committed transaction to SQLite database.
+2024-11-17 20:09:33,946 - sqlite_data_manager - DEBUG - Closed SQLite database connection.
+2024-11-17 21:09:25,577 - sqlite_data_manager - INFO - Saving DataFrame to SQLite database at c:\code\prediction\database\klines.db.
+2024-11-17 21:09:25,583 - sqlite_data_manager - DEBUG - Connected to SQLite database.
+2024-11-17 21:09:25,583 - sqlite_data_manager - DEBUG - Ensured 'klines' table exists.
+2024-11-17 21:09:25,586 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_open_time ON klines (open_time);
+2024-11-17 21:09:25,590 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_close_time ON klines (close_time);
+2024-11-17 21:09:25,593 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_correlation_computed ON klines (correlation_computed);
+2024-11-17 21:09:25,593 - sqlite_data_manager - DEBUG - Converted 'open_time' and 'close_time' to string format without timezone.
+2024-11-17 21:09:25,610 - sqlite_data_manager - INFO - Data successfully inserted into SQLite database.
+2024-11-17 21:09:25,610 - sqlite_data_manager - DEBUG - Committed transaction to SQLite database.
+2024-11-17 21:09:25,610 - sqlite_data_manager - DEBUG - Closed SQLite database connection.
+2024-11-17 21:56:37,295 - sqlite_data_manager - INFO - Saving DataFrame to SQLite database at c:\code\prediction\database\klines.db.
+2024-11-17 21:56:37,296 - sqlite_data_manager - DEBUG - Connected to SQLite database.
+2024-11-17 21:56:37,296 - sqlite_data_manager - DEBUG - Ensured 'klines' table exists.
+2024-11-17 21:56:37,300 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_open_time ON klines (open_time);
+2024-11-17 21:56:37,300 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_close_time ON klines (close_time);
+2024-11-17 21:56:37,300 - sqlite_data_manager - DEBUG - Executed index creation query: CREATE INDEX IF NOT EXISTS idx_correlation_computed ON klines (correlation_computed);
+2024-11-17 21:56:37,313 - sqlite_data_manager - DEBUG - Converted 'open_time' and 'close_time' to string format without timezone.
+2024-11-17 21:56:37,326 - sqlite_data_manager - INFO - Data successfully inserted into SQLite database.
+2024-11-17 21:56:37,328 - sqlite_data_manager - DEBUG - Committed transaction to SQLite database.
+2024-11-17 21:56:37,328 - sqlite_data_manager - DEBUG - Closed SQLite database connection.
